@@ -1,0 +1,26 @@
+Question 1:
+1KB = 10bits, answer: 10 bits
+
+Question 2:
+16bit = 64kb, 64kb / 1kb = 64, 64 = 6 bits, answer: 6bits
+
+Question 3:
+64kb / 1kb = 64, answer: 64 pages
+
+Question 4:
+A,
+B,
+C,
+E,
+F
+Question 5:
+4kb / 1kb = 4, answer: 4 frames(pages)
+
+Question 6:
+A flat page table uses only a single table, where only the VPN (Virtual page number) is stored. For 16 bits, 6 bits would be needed to represent a VPN.
+We have 64 pages in 16 bit VA. We have 12 bits of additional data for each entry. Size = (6 + 12) * 64, answer: 1152 bits
+
+Question 7:
+Are they asking for CR3? 
+
+Question 8:
